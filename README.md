@@ -1,6 +1,6 @@
 # FakeNetease-app
 
-此项目为uni-app开发的仿网易云app ，练手demo，图一乐而已(uni-app狗都不用！)
+此项目为uni-app开发的仿网易云app ，练手小demo，图一乐而已(uni-app狗都不用！)
 
 ## 1.食用方法
 
